@@ -1,0 +1,756 @@
+Uri: https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inriasans/v14/ptRMTiqXYfZMCOiVj9kQ5O4.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\inriasans\v14\ptRMTiqXYfZMCOiVj9kQ5O4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriasans/v14/ptROTiqXYfZMCOiVj9kQ1Oz4LQ.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\inriasans\v14\ptROTiqXYfZMCOiVj9kQ1Oz4LQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3ELaDQs.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\inriasans\v14\ptRPTiqXYfZMCOiVj9kQ3ELaDQs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriasans/v14/ptRPTiqXYfZMCOiVj9kQ3FLdDQs.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\inriasans\v14\ptRPTiqXYfZMCOiVj9kQ3FLdDQs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAgQlPrQ.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\inriasans\v14\ptRRTiqXYfZMCOiVj9kQ1OzAgQlPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriasans/v14/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5PrQ.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\inriasans\v14\ptRRTiqXYfZMCOiVj9kQ1OzAkQ5PrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://strudel-html.netlify.app/
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/404
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\404.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/about
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\about.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/assets/css/plugins.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\css\plugins.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/css/style.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/images/404.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\404.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/about-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\about-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/about-bottom.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\about-bottom.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/about.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\about.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-2-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-2-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-2-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-2-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-2-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-2-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-l1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-l1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-l2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-l2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-pg-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-pg-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-pg-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-pg-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-pg-4.jpg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-pg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/blog-pg-5.jpg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\blog-pg-5.jpg
+Content Type: image/jpeg
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/comment-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\comment-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/comment-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\comment-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/comment-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\comment-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/details-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\details-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/details-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\details-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/details-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\details-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/recent-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\recent-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/recent-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\recent-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/recent-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\recent-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/blog/recent-4.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\blog\recent-4.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/brand/b-1.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\brand\b-1.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/brand/b-2.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\brand\b-2.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/brand/b-3.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\brand\b-3.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/brand/b-4.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\brand\b-4.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/brand/b-5.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\brand\b-5.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/brand/b-6.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\brand\b-6.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/breadcrumb/b-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\breadcrumb\b-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/breadcrumb/b-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\breadcrumb\b-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/breadcrumb/b-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\breadcrumb\b-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/breadcrumb/b-4.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\breadcrumb\b-4.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/breadcrumb/b-5.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\breadcrumb\b-5.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/breadcrumb/b-6.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\breadcrumb\b-6.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/chose-us.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\chose-us.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/cta-side.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\cta-side.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/cta.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\cta.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/faq/q-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\faq\q-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/faq/q-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\faq\q-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/faq/q-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\faq\q-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/faq/q-4.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\faq\q-4.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/footer-big-logo.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\footer-big-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/fun-fact.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\fun-fact.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-5.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-5.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-award-middle.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-award-middle.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-award-text.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-award-text.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-sm-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-sm-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-sm-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-sm-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-sm-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-sm-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/hero/hero-title.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\hero\hero-title.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/plus-white.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\plus-white.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/plus.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/quote.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/service-1.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\service-1.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/service-2-1.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\service-2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/service-2-2.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\service-2-2.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/service-2-3.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\service-2-3.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/service-2.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\service-2.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/service-3.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\service-3.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/service-4.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\service-4.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/x-white.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\x-white.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/icon/x.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\icon\x.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/logo-black.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\logo-black.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/logo-white.svg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://strudel-html.netlify.app/assets/images/project/chose.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\chose.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/details-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\details-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/details-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\details-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/details-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\details-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-4.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-4.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-5.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-5.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-6.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-6.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-7.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-7.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-8.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-8.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/p-p-9.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\p-p-9.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-2-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-2-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-2-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-2-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-2-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-2-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-3-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-3-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-3-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-3-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-3-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-3-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/project-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\project-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-3-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-3-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-3-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-3-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-3-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-3-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-3-4.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-3-4.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-4.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-4.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-5.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-5.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-6.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-6.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-7.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-7.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/project/service-project-4-8.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\project\service-project-4-8.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/shape/hero-sp-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\shape\hero-sp-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/shape/hero-sp-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\shape\hero-sp-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/shape/hero-sp-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\shape\hero-sp-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/team/single.jpg
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\team\single.jpg
+Content Type: image/jpeg
+
+Uri: https://strudel-html.netlify.app/assets/images/team/team-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\team\team-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/team/team-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\team\team-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/team/team-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\team\team-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/team/team-4.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\team\team-4.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/team/team-5.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\team\team-5.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/team/team-6.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\team\team-6.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/testimonial-1.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\testimonial-1.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/testimonial-2.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\testimonial-2.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/testimonial-3.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\testimonial-3.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/testimonial-three.png
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\testimonial-three.png
+Content Type: image/png
+
+Uri: https://strudel-html.netlify.app/assets/images/video/startup.mp4
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\images\video\startup.mp4
+Content Type: video/mp4
+
+Uri: https://strudel-html.netlify.app/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/jquery.mixitup.min.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\jquery.mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/main.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/menu.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\menu.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/odometer.min.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/viewport.jquery.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\viewport.jquery.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://strudel-html.netlify.app/assets/plugins/all.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\all.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/plugins/animate.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\animate.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/plugins/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/plugins/fonts/remixicon.eot?t=1720054838745
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://strudel-html.netlify.app/assets/plugins/fonts/remixicon.ttf?t=1720054838745
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://strudel-html.netlify.app/assets/plugins/fonts/remixicon.woff2?t=1720054838745
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/plugins/fonts/remixicon.woff?t=1720054838745
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\fonts\remixicon.woff
+Content Type: application/font-woff
+
+Uri: https://strudel-html.netlify.app/assets/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/plugins/odometer.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\odometer.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/plugins/remixicon.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\remixicon.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/plugins/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\plugins\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-sharp-duotone-light-300.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-sharp-duotone-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-sharp-duotone-regular-400.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-sharp-duotone-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-sharp-duotone-solid-900.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-sharp-duotone-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-sharp-duotone-thin-100.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-sharp-duotone-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://strudel-html.netlify.app/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://strudel-html.netlify.app/blog
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\blog.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/blog-single
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\blog-single.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/contact
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/faq
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\faq.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/index-2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\index-2.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/index-3
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\index-3.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/index-4
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\index-4.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/index-5
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\index-5.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/project-1
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\project-1.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/project-2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\project-2.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/project-single
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\project-single.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/service-1
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\service-1.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/service-2
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\service-2.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/service-single
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\service-single.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/team
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\team.html
+Content Type: text/html
+
+Uri: https://strudel-html.netlify.app/team-single
+File Name: C:\Downloaded Web Sites\strudel-html.netlify.app\team-single.html
+Content Type: text/html
+
