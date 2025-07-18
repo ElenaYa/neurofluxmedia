@@ -8,8 +8,23 @@
 
         <!-- SEO Meta Tags -->
       <meta name="description" content="Neuroflux Business Akademie bietet professionelle Schulungen für die Führung kleiner Unternehmen – für Unternehmer in der Schweiz. Lernen Sie Geschäftsgründung, Finanzen und Management.">
-
         <meta name="keywords" content="Kleinunternehmen, Business Akademie, Geschäftsgründung, Unternehmensführung, Schweiz, Schulungen">
+        <meta name="robots" content="index, follow">
+
+        <!-- Open Graph Meta Tags -->
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Neuroflux Business Akademie - Kleinunternehmen erfolgreich führen">
+        <meta property="og:description" content="Neuroflux Business Akademie bietet professionelle Schulungen für die Führung kleiner Unternehmen – für Unternehmer in der Schweiz. Lernen Sie Geschäftsgründung, Finanzen und Management.">
+        <meta property="og:url" content="https://neurofluxmedia.com/">
+        <meta property="og:image" content="https://neurofluxmedia.com/assets/images/logo-white.png">
+        <meta property="og:site_name" content="Neuroflux Business Akademie">
+        <meta property="og:locale" content="de_DE">
+
+        <!-- Twitter Card Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Neuroflux Business Akademie - Kleinunternehmen erfolgreich führen">
+        <meta name="twitter:description" content="Neuroflux Business Akademie bietet professionelle Schulungen für die Führung kleiner Unternehmen – für Unternehmer in der Schweiz. Lernen Sie Geschäftsgründung, Finanzen und Management.">
+        <meta name="twitter:image" content="https://neurofluxmedia.com/assets/images/logo-white.png">
 
         <!-- Favicon -->
         <link rel="icon" href="assets/images/favicon.png" type="image/gif">
@@ -684,7 +699,7 @@
                                 <p class="mt-24">Kontaktieren Sie uns für eine unverbindliche Beratung und erfahren Sie, welcher Kurs zu Ihnen passt.</p>
                             </div>
                             <div class="form-wrapper wrapper-two mt-40">
-                                <form action="#">
+                                <form id="contactForm" action="#">
                                     <div class="row gy-4">
                                         <div class="col-lg-6">
                                             <input type="text" placeholder="Vor- und Nachname" required>
@@ -708,7 +723,7 @@
                                             <textarea placeholder="Ihre Nachricht oder Fragen" rows="4"></textarea>
                                         </div>
                                         <div class="col-lg-12 text-center">
-                                            <button class="common-btn bg-orange hover-black border-0">
+                                            <button type="submit" class="common-btn bg-orange hover-black border-0">
                                                 Nachricht senden
                                                 <div class="overflow-hidden d-flex align-items-center justify-content-center position-relative">
                                                     <span class="button-primary-hover-icon button-icon"><i class="ri-arrow-right-up-line"></i></span>
@@ -799,6 +814,39 @@
       </footer>
 
       <!-- Footer End -->
+
+      <!-- Success Modal -->
+      <div id="successModal" class="modal fade" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header border-0">
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center p-4">
+              <div class="success-icon mb-4">
+                <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="40" cy="40" r="40" fill="#FF602F" fill-opacity="0.1"/>
+                  <circle cx="40" cy="40" r="30" fill="#FF602F"/>
+                  <path d="M30 40L36 46L50 32" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </div>
+              <h4 class="mb-3">Vielen Dank für Ihre Nachricht!</h4>
+              <p class="mb-4">Wir haben Ihre Anfrage erfolgreich erhalten und werden uns innerhalb von 24 Stunden bei Ihnen melden.</p>
+              <p class="small text-muted">Sie können dieses Fenster schließen oder auf "OK" klicken.</p>
+            </div>
+            <div class="modal-footer border-0 justify-content-center">
+              <button type="button" class="common-btn bg-orange hover-black border-0" data-bs-dismiss="modal">
+                OK
+                <div class="overflow-hidden d-flex align-items-center justify-content-center position-relative">
+                  <span class="button-primary-hover-icon button-icon"><i class="ri-arrow-right-up-line"></i></span>
+                  <span class="button-primary-icon button-icon"><i class="ri-arrow-right-up-line"></i></span>
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Success Modal End -->
         </div>
 
         <!-- Jquery JS -->
@@ -822,5 +870,34 @@
 
         <!-- Main JS -->
         <script src="assets/js/main.js"></script>
+
+        <!-- Contact Form Script -->
+        <script>
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Simulate form processing
+            const submitButton = this.querySelector('button[type="submit"]');
+            const originalText = submitButton.innerHTML;
+            
+            // Show loading state
+            submitButton.innerHTML = 'Wird gesendet...';
+            submitButton.disabled = true;
+            
+            // Simulate processing time
+            setTimeout(() => {
+                // Reset button
+                submitButton.innerHTML = originalText;
+                submitButton.disabled = false;
+                
+                // Reset form
+                this.reset();
+                
+                // Show success modal
+                const modal = new bootstrap.Modal(document.getElementById('successModal'));
+                modal.show();
+            }, 1500);
+        });
+        </script>
     </body>
 </html>
