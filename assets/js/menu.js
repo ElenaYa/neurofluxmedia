@@ -1,4 +1,3 @@
-/*---------- 03. Mobile Menu Active ----------*/
 $.fn.vsmobilemenu = function (options) {
   var opt = $.extend(
     {
@@ -16,13 +15,11 @@ $.fn.vsmobilemenu = function (options) {
   );
 
   return this.each(function () {
-    var menu = $(this); // Select menu
+    var menu = $(this); 
 
-    // Menu Show & Hide
     function menuToggle() {
       menu.toggleClass(opt.bodyToggleClass);
 
-      // collapse submenu on menu hide or show
       var subMenu = "." + opt.subMenuClass;
       $(subMenu).each(function () {
         if ($(this).hasClass(opt.subMenuToggleClass)) {
@@ -33,7 +30,6 @@ $.fn.vsmobilemenu = function (options) {
       });
     }
 
-    // Class Set Up for every submenu
     menu.find("li").each(function () {
       var submenu = $(this).find("ul");
       submenu.addClass(opt.subMenuClass);
@@ -43,7 +39,6 @@ $.fn.vsmobilemenu = function (options) {
       submenu.next("a").append(opt.appendElement);
     });
 
-    // Toggle Submenu
     function toggleDropDown($element) {
       if ($($element).next("ul").length > 0) {
         $($element).parent().toggleClass(opt.subMenuParentToggle);
@@ -56,7 +51,6 @@ $.fn.vsmobilemenu = function (options) {
       }
     }
 
-    // Submenu toggle Button
     var expandToggler = "." + opt.meanExpandClass;
     $(expandToggler).each(function () {
       $(this).on("click", function (e) {
@@ -65,20 +59,17 @@ $.fn.vsmobilemenu = function (options) {
       });
     });
 
-    // Menu Show & Hide On Toggle Btn click
     $(opt.menuToggleBtn).each(function () {
       $(this).on("click", function () {
         menuToggle();
       });
     });
 
-    // Hide Menu On out side click
     menu.on("click", function (e) {
       e.stopPropagation();
       menuToggle();
     });
 
-    // Stop Hide full menu on menu click
     menu.find("div").on("click", function (e) {
       e.stopPropagation();
     });
@@ -99,10 +90,8 @@ function applyMenu() {
     $(".structa-menu-wrapper").vsmobilemenu();
   }
 }
-// Initially apply the correct menu
 applyMenu();
 
-// Reapply when the window is resized
 $(window).resize(function () {
   applyMenu();
 });

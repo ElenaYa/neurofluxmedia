@@ -1,14 +1,4 @@
-/* ====================================================
- * jQuery Is In Viewport.
- * https://github.com/frontid/jQueryIsInViewport
- * Marcelo IvÃ¡n Tosco (capynet)
- * Inspired on https://stackoverflow.com/a/40658647/1413049
- * ==================================================== */
-/*!
- * HTML Template Name: structa - Creative Agency Template
- * Developer Name: Sakebul Islam
- * Developer Website: https://sakebul.com
- */
+
 
 !function ($) {
   'use strict'
@@ -23,8 +13,6 @@
   Class.prototype = {
 
     /**
-     * Checks if the element is in.
-     *
      * @returns {boolean}
      */
     isIn: function isIn() {
@@ -38,7 +26,6 @@
     },
 
     /**
-     * Launch a callback indicating when the element is in and when is out.
      */
     watch: function () {
       var _self = this;
@@ -62,8 +49,7 @@
 
   };
 
-  // jQuery plugin.
-  //-----------------------------------------------------------
+ 
   $.fn.isInViewport = function (cb) {
     return this.each(function () {
       var $element = $(this);

@@ -1,36 +1,9 @@
-﻿/*
-  Template Name: Structa
-  Version: 1.0.0
-*/
-/*================================================
-01. Default CSS  
-02. Menu CSS  
-03. Service CSS 
-04. Project CSS
-05. Faq CSS
-06. Testimonial CSS
-07. Team CSS
-08. Blog CSS
-09. Footer CSS
-10. About CSS
-11. Hero CSS
-12. Brand CSS
-13. Details Page CSS
-14. Contact CSS
-
-=================================================*/
-/*================================================
-01. Default CSS
-=================================================*/
-@import url("../../css2");
+﻿@import url("../../css2");
 @import url("../../css2-1");
-/* Media Query Variable */
-/*CSS Variable*/
+
 :root {
-  /*font Variable*/
   --ff-grotesk: "Space Grotesk", sans-serif;
   --ff-inria-sans: "Inria Sans", sans-serif;
-  /*Color Variable*/
   --color-primary-orange: #ff602f;
   --color-black: #19191a;
   --color-white: #ffffff;
@@ -90,7 +63,7 @@ h6,
 
 h1,
 .h1 {
-  font-size: 80px;
+  font-size: 65px;
   line-height: 103.636%;
   letter-spacing: -3.3px;
 }
@@ -208,7 +181,6 @@ button:focus {
   outline: none;
 }
 
-/* Remove Chrome Input Field's Unwanted Yellow Background Color */
 input:-webkit-autofill {
   -webkit-box-shadow: 0 0 0px 1000px white inset !important;
 }
@@ -216,7 +188,6 @@ input:-webkit-autofill:hover, input:-webkit-autofill:focus {
   -webkit-box-shadow: 0 0 0px 1000px white inset !important;
 }
 
-/* Common Class */
 .section-margin-top {
   margin-top: 130px;
 }
@@ -450,17 +421,13 @@ input:-webkit-autofill:hover, input:-webkit-autofill:focus {
   font-family: var(--ff-grotesk);
 }
 
-/* Common Class End */
 ul.custom-ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-/*
-============================================
-============= Custom Scroll Bar CSS ================
-*/
+
 body::-webkit-scrollbar {
   width: 0.3em;
 }
@@ -479,14 +446,7 @@ body::-webkit-scrollbar-thumb {
   background-color: var(--color-white);
 }
 
-/*
-============================================
-============= Custom Scroll Bar CSS End ================
-*/
-/*
-============================================
-============= Preloader CSS ================
-*/
+
 .preloader {
   position: fixed;
   width: 100%;
@@ -535,11 +495,7 @@ body::-webkit-scrollbar-thumb {
     transform: rotate(360deg);
   }
 }
-/*
-============= Preloader CSS END ================
-================================================
-*/
-/*img-animation**********************/
+
 .img-custom-anim-right {
   animation: img-anim-right 1.3s forwards cubic-bezier(0.645, 0.045, 0.355, 1) 0.4s;
   opacity: 0;
@@ -608,8 +564,7 @@ body::-webkit-scrollbar-thumb {
     opacity: 1;
   }
 }
-/*img-animation End**********************/
-/* Custom Cursor */
+
 .cursor {
   pointer-events: none;
   position: fixed;
@@ -633,8 +588,7 @@ body::-webkit-scrollbar-thumb {
   cursor: pointer;
 }
 
-/* Custom Cursor End */
-/*Back to Top btn*/
+
 .back-to-top-btn {
   position: fixed;
   bottom: 10px;
@@ -659,7 +613,6 @@ body::-webkit-scrollbar-thumb {
   vertical-align: middle;
 }
 
-/*Back to Top btn End*/
 @media (min-width: 100px) {
   .container.custom-container {
     max-width: 540px;
@@ -807,8 +760,7 @@ body::-webkit-scrollbar-thumb {
 }
 .common-btn.border-button {
   background-color: transparent;
-  border: 1px solid var(--color-black);
-  color: var(--color-black);
+
 }
 @media only screen and (max-width: 1199.98px) {
   .common-btn {
@@ -979,9 +931,7 @@ body::-webkit-scrollbar-thumb {
     transform: translateY(0);
   }
 }
-/*================================================
-02. Menu CSS
-=================================================*/
+
 @keyframes anim-ripple {
   from {
     opacity: 1;
@@ -992,7 +942,6 @@ body::-webkit-scrollbar-thumb {
     transform: scale3d(2, 2, 1);
   }
 }
-/*header css start*/
 .structa-header {
   position: absolute;
   z-index: 41;
@@ -1333,7 +1282,6 @@ body::-webkit-scrollbar-thumb {
   margin-right: 40px;
 }
 
-/*header css end*/
 .menuBar-toggle {
   font-size: 28px;
   cursor: pointer;
@@ -1489,9 +1437,7 @@ body::-webkit-scrollbar-thumb {
   color: var(--color-white);
 }
 
-/*================================================
-Mobile Menu Menu CSS
-=================================================*/
+
 .structa-menu-wrapper {
   position: fixed;
   top: 0;
@@ -1621,10 +1567,6 @@ Mobile Menu Menu CSS
 .structa-menu-wrapper.v2 .structa-menu-area .structa-mobile-menu-left .mobile-menu-info .stars ul li {
   line-height: inherit;
 }
-.structa-menu-wrapper.v2 .structa-menu-area .structa-mobile-menu-left .mobile-menu-info .stars ul li i,
-.structa-menu-wrapper.v2 .structa-menu-area .structa-mobile-menu-left .mobile-menu-info .stars ul li svg {
-  color: var(--color-white);
-}
 .structa-menu-wrapper.v2 .structa-menu-area .structa-mobile-menu-left .mobile-menu-info p {
   color: var(--color-white);
 }
@@ -1636,7 +1578,6 @@ Mobile Menu Menu CSS
   min-height: 100%;
   padding-left: 136px;
   padding-block: 100px;
-  /* For Firefox */
 }
 @media only screen and (max-width: 1399.98px) {
   .structa-menu-wrapper.v2 .structa-menu-area .structa-mobile-menu-center .structa-mobile-menu {
@@ -1834,7 +1775,6 @@ Mobile Menu Menu CSS
   text-underline-position: from-font;
 }
 .structa-menu-wrapper.v2 .structa-menu-area .structa-mobile-menu-right .contact-info .contact a[href^="tel:"] {
-  /* Styles for the tel link */
 }
 .structa-menu-wrapper.v2.structa-body-visible .structa-menu-area {
   left: 0;
@@ -2137,9 +2077,6 @@ a.structa-default-btn.sm-size {
   color: var(--color-white);
 }
 
-/*================================================
-03. Service CSS
-=================================================*/
 .service-box {
   border: 1px solid #dfdfdf;
   background: #fff;
@@ -2527,9 +2464,7 @@ a.structa-default-btn.sm-size {
   opacity: 1;
 }
 
-/*================================================
-04. Project CSS
-=================================================*/
+
 .project-box .project-img img {
   transition: all 0.5s ease;
 }
@@ -2626,9 +2561,7 @@ a.structa-default-btn.sm-size {
   }
 }
 
-/*================================================
-05. Faq CSS
-=================================================*/
+
 .faq-wrap .accordion-item {
   margin-bottom: 15px;
   border: none;
@@ -2725,9 +2658,7 @@ a.structa-default-btn.sm-size {
   }
 }
 
-/*================================================
-06. Testimonial CSS
-=================================================*/
+
 .quote-icon {
   color: var(--color-primary-orange);
 }
@@ -3037,9 +2968,7 @@ a.structa-default-btn.sm-size {
   line-height: 1;
 }
 
-/*================================================
-07. Team CSS
-=================================================*/
+
 .team-box .team-img-wrap .team-img img {
   transition: all 0.5s ease;
 }
@@ -3170,9 +3099,7 @@ a.structa-default-btn.sm-size {
   color: var(--color-black);
 }
 
-/*================================================
-08. Blog CSS
-=================================================*/
+
 .structa-blog-box .structa-blog-thumb img {
   transition: all 0.5s ease;
 }
@@ -3273,9 +3200,7 @@ a.structa-default-btn.sm-size {
   }
 }
 
-/*================================================
-09. Footer CSS
-=================================================*/
+
 .footer-desc {
   max-width: 440px;
   margin-top: 24px;
@@ -3346,9 +3271,7 @@ a.structa-default-btn.sm-size {
   height: 100%;
 }
 
-/*================================================
-10. About CSS
-=================================================*/
+
 .about-info-wrap {
   max-width: 750px;
 }
@@ -3514,9 +3437,7 @@ a.structa-default-btn.sm-size {
     left: -100%;
   }
 }
-/*================================================
-11. Hero CSS
-=================================================*/
+
 .hero-area-two {
   padding: 106px 0 0px;
 }
@@ -3906,9 +3827,7 @@ a.structa-default-btn.sm-size {
   display: none;
 }
 
-/*================================================
-12. Brand CSS
-=================================================*/
+
 .brand-box {
   width: 320px;
   height: 240px;
@@ -3938,9 +3857,7 @@ a.structa-default-btn.sm-size {
   width: auto;
 }
 
-/*================================================
-13. Details Page CSS
-=================================================*/
+
 .sidebar-wrapper {
   gap: 54px;
 }
@@ -4133,9 +4050,7 @@ a.structa-default-btn.sm-size {
   color: var(--color-primary-orange);
 }
 
-/*================================================
-14. Contact CSS
-=================================================*/
+
 .form-wrapper {
   padding: 100px;
 }
@@ -4256,8 +4171,71 @@ a.structa-default-btn.sm-size {
   }
 }
 
-/*================================================
-15. Service CSS
-=================================================*/
 
-/*# sourceMappingURL=style.css.map */
+
+.cookie-consent-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(25, 25, 26, 0.95);
+  color: #ffffff;
+  padding: 20px 0;
+  z-index: 9999;
+  display: none;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.cookie-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  gap: 30px;
+}
+
+.cookie-text h6 {
+  margin: 0 0 8px 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--color-primary-orange);
+}
+
+.cookie-text p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+.cookie-buttons {
+  display: flex;
+  gap: 15px;
+  flex-shrink: 0;
+}
+
+.cookie-buttons .common-btn {
+  padding: 12px 24px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .cookie-content {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .cookie-buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .cookie-buttons .common-btn {
+    width: 100%;
+  }
+}

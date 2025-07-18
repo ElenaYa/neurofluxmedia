@@ -1,10 +1,8 @@
 (function ($) {
     'use strict';
 
-    ///////////////////////////////////////////////////////
-    // Preloader
+   
     $('.preloader').delay(800).fadeOut('slow');
-    // Preloader End
 
     $(window).on('scroll', function () {
         if ($(window).scrollTop() > 150) {
@@ -13,9 +11,7 @@
             $('#sticky-menu').removeClass('sticky-header');
         }
     });
-    /**************************************
-     *****  Set Background Image *****
-     **************************************/
+  
     if ($('[data-bg-src]').length > 0) {
         $('[data-bg-src]').each(function () {
             var src = $(this).attr('data-bg-src');
@@ -24,8 +20,7 @@
         });
     }
 
-    ///////////////////////////////////////////////////////
-    // Sticky Menu
+   
     $(window).on('scroll', function () {
         var scroll = $(window).scrollTop();
         if (scroll >= 20) {
@@ -34,9 +29,7 @@
             $('.structa-menu-area').removeClass('sticky');
         }
     });
-    // Sticky Menu End
-
-    // Custom Cursor
+   
     const cursor = document.querySelector('.cursor');
 
     if (cursor) {
@@ -58,9 +51,7 @@
         });
     }
 
-    // Custom Cursor End
-
-    // Odometer Counter
+   
 
     $('.counter-item').each(function () {
         var $counterItem = $(this);
@@ -73,10 +64,7 @@
             }
         });
     });
-    // Odometer Counter End
-    // Check if thumbnail slider exists
-
-    // Marquee
+    
     $('.marquee').each(function () {
         var $marquee = $(this);
         var $itemContainer = $marquee.find('.marquee-item-container');
@@ -88,10 +76,8 @@
         }
     });
 
-    // Marquee End
 
     jQuery(window).on('load', function () {
-        //wow Animation
         new WOW().init();
         window.wow = new WOW({
             boxClass: 'wow',
@@ -104,7 +90,6 @@
         window.wow.init();
     });
 
-    /* Service Slide */
 
     var serviceSlider = new Swiper('.service-slider', {
         spaceBetween: 28,
@@ -136,7 +121,6 @@
         },
     });
 
-    /*service two*/
     var serviceSlider = new Swiper('.service-slider-two', {
         spaceBetween: 28,
         loop: true,
@@ -167,9 +151,7 @@
         },
     });
 
-    /* Service End */
-
-    /* Project Slide */
+ 
 
     var projectTwoSlider = new Swiper('.project-slider-two', {
         spaceBetween: 28,
@@ -270,9 +252,7 @@
         },
     });
 
-    /* Project End */
 
-    /* Testimonial Slide */
 
     var testimonialSlider = new Swiper('.testimonial-slider', {
         loop: true,
@@ -297,9 +277,7 @@
         },
     });
 
-    /* Testimonial End */
-
-    /* Hero Slide */
+  
 
     var heroSlider = new Swiper('.hero-slider', {
         loop: true,
@@ -323,9 +301,7 @@
         },
     });
 
-    /* Hero End */
-
-    // Partners Slide
+   
 
     var partnersSlider = new Swiper('.brand-slide-wrap', {
         centeredSlides: true,
@@ -339,25 +315,19 @@
         disableOnInteraction: true,
     });
 
-    // Partners Slide End
-
-    /* Search */
+   
 
     document.addEventListener('DOMContentLoaded', function () {
-        // Select both desktop and mobile search buttons
         const searchBtns = document.querySelectorAll('.search-btn');
         const searchFormOverlay = document.querySelector('.search-form-overlay');
         const searchCloseBtn = document.querySelector('.search-close-btn');
         const searchForm = document.querySelector('.search-form');
         const searchInput = document.querySelector('.search-input');
 
-        // Check if search elements exist before adding event listeners
         if (searchFormOverlay && searchBtns.length > 0) {
-            // Add click event to all search buttons (both desktop and mobile versions)
             searchBtns.forEach((btn) => {
                 btn.addEventListener('click', function () {
                     searchFormOverlay.classList.add('active');
-                    // Focus on input after animation completes
                     setTimeout(() => {
                         if (searchInput) {
                             searchInput.focus();
@@ -366,21 +336,18 @@
                 });
             });
 
-            // Close search form when close button is clicked
             if (searchCloseBtn) {
                 searchCloseBtn.addEventListener('click', function () {
                     searchFormOverlay.classList.remove('active');
                 });
             }
 
-            // Close search form when clicking outside the form
             searchFormOverlay.addEventListener('click', function (e) {
                 if (e.target === searchFormOverlay) {
                     searchFormOverlay.classList.remove('active');
                 }
             });
 
-            // Prevent form submission event from closing the overlay (handle form submission)
             if (searchForm) {
                 searchForm.addEventListener('submit', function (e) {
                     e.preventDefault();
@@ -388,17 +355,14 @@
                     if (searchInput) {
                         const searchTerm = searchInput.value.trim();
                         if (searchTerm) {
-                            // Implement your search functionality here
                             console.log('Searching for:', searchTerm);
 
-                            // Optional: Close the form after search
-                            // searchFormOverlay.classList.remove('active');
+                           
                         }
                     }
                 });
             }
 
-            // Close search form when pressing Escape key
             document.addEventListener('keydown', function (e) {
                 if (e.key === 'Escape' && searchFormOverlay.classList.contains('active')) {
                     searchFormOverlay.classList.remove('active');
@@ -407,9 +371,7 @@
         }
     });
 
-    /* Search End */
-
-    /* Video Player */
+  
 
     function initializeVideoPlayers(videoSelector, playBtnSelector) {
         const videos = document.querySelectorAll(videoSelector);
@@ -448,34 +410,26 @@
         initializeVideoPlayers('.video-player', '.play-btn');
     });
 
-    /* Video Player End */
-
-    // Hover Active
+   
     document.addEventListener('DOMContentLoaded', function () {
-        // Select all wraps on the page
         const teamWraps = document.querySelectorAll('.active-wrap');
 
-        // Set the first item as active by default (if there are any items)
         if (teamWraps.length > 0) {
             teamWraps[0].classList.add('active');
         }
 
-        // Add mouseenter event to each wrap
         teamWraps.forEach((teamWrap) => {
             teamWrap.addEventListener('mouseenter', function () {
-                // First remove active class from all wraps
                 teamWraps.forEach((tw) => {
                     tw.classList.remove('active');
                 });
 
-                // Add active class to the currently hovered wrap
                 this.classList.add('active');
             });
         });
     });
 
     $(window).on('scroll', function () {
-        // Progress Bar
         $('.skill-progress .progres').each(function () {
             var bottom_of_object = $(this).offset().top + $(this).outerHeight();
             var bottom_of_window = $(window).scrollTop() + $(window).height();
@@ -487,39 +441,30 @@
             }
         });
 
-        // Progress Bar End
     });
 
-    /* Service Tab */
 
     $(document).ready(function () {
-        // Assign dynamic IDs to tabs and content
         $('.columns').each(function (index) {
             $(this).attr('data-tab', 'tab' + (index + 1));
         });
 
         $('.tab-img').each(function (index) {
-            // Calculate which tab group this image belongs to
             var tabGroup = Math.floor(index / 2) + 1;
             $(this).attr('data-tab-group', 'tab' + tabGroup);
         });
 
-        // Tab functionality
         $('.columns').on('mouseenter', function () {
             var tab_id = $(this).attr('data-tab');
 
-            // Remove current class from all columns
             $('.columns').removeClass('current');
             $(this).addClass('current');
 
-            // Remove current class from all images
             $('.tab-img').removeClass('current');
 
-            // Add current class to both images that belong to this tab group
             $('.tab-img[data-tab-group="' + tab_id + '"]').addClass('current');
         });
 
-        // Background image functionality
         $('.bg-img').each(function () {
             if ($(this).attr('data-background')) {
                 $(this).css('background-image', 'url(' + $(this).data('background') + ')');
@@ -527,9 +472,6 @@
         });
     });
 
-    /* Service Tab End */
-
-    // Bottom to top start
     $(document).ready(function () {
         $(window).on('scroll', function () {
             if ($(this).scrollTop() > 100) {
@@ -543,9 +485,7 @@
             return false;
         });
     });
-    // Bottom to top End
-
-    //Mixitup
+   
     $('.work-mixi').mixItUp();
 
     var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
