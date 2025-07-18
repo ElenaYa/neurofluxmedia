@@ -90,7 +90,7 @@ h6,
 
 h1,
 .h1 {
-  font-size: 110px;
+  font-size: 80px;
   line-height: 103.636%;
   letter-spacing: -3.3px;
 }
@@ -2863,6 +2863,9 @@ a.structa-default-btn.sm-size {
   font-size: 80px;
   line-height: 105%;
   letter-spacing: -1.6px;
+  background-color: rgba(0, 0, 0, 0.2);
+ 
+  border-radius: 8px;
 }
 @media only screen and (max-width: 1199.98px) {
   .cta-title {
