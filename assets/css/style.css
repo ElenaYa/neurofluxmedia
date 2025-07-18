@@ -1343,6 +1343,11 @@ body::-webkit-scrollbar-thumb {
   padding-inline: 5px;
   width: 50px;
   height: 42px;
+  transition: all 0.3s ease-in-out;
+}
+.menuBar-toggle:hover {
+  background-color: rgba(var(--color-primary-rgb), 0.1);
+  transform: scale(1.1);
 }
 .menuBar-toggle svg,
 .menuBar-toggle i {
@@ -1351,6 +1356,12 @@ body::-webkit-scrollbar-thumb {
   height: 35px;
   position: relative;
   z-index: 9;
+  transition: all 0.3s ease-in-out;
+}
+.menuBar-toggle:hover svg,
+.menuBar-toggle:hover i {
+  color: var(--color-primary);
+  transform: rotate(90deg);
 }
 .menuBar-toggle .has-extend .menuBar-toggle svg,
 .menuBar-toggle .has-extend .menuBar-toggle i {
@@ -1516,9 +1527,19 @@ Mobile Menu Menu CSS
   border-left: 1px solid rgba(var(--color-black-rgb), 0.1);
   padding: 0;
   outline: 0;
+  transition: all 0.3s ease-in-out;
+}
+.structa-menu-wrapper .structa-menu-toggle:hover {
+  background-color: rgba(var(--color-primary-rgb), 0.1);
+  transform: scale(1.05);
 }
 .structa-menu-wrapper .structa-menu-toggle i {
   color: var(--color-black);
+  transition: all 0.3s ease-in-out;
+}
+.structa-menu-wrapper .structa-menu-toggle:hover i {
+  color: var(--color-primary);
+  transform: rotate(90deg);
 }
 .structa-menu-wrapper .structa-menu-area {
   width: 100%;

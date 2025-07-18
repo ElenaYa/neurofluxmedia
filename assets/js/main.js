@@ -351,49 +351,60 @@
         const searchForm = document.querySelector('.search-form');
         const searchInput = document.querySelector('.search-input');
 
-        // Add click event to all search buttons (both desktop and mobile versions)
-        searchBtns.forEach((btn) => {
-            btn.addEventListener('click', function () {
-                searchFormOverlay.classList.add('active');
-                // Focus on input after animation completes
-                setTimeout(() => {
-                    searchInput.focus();
-                }, 300);
+        // Check if search elements exist before adding event listeners
+        if (searchFormOverlay && searchBtns.length > 0) {
+            // Add click event to all search buttons (both desktop and mobile versions)
+            searchBtns.forEach((btn) => {
+                btn.addEventListener('click', function () {
+                    searchFormOverlay.classList.add('active');
+                    // Focus on input after animation completes
+                    setTimeout(() => {
+                        if (searchInput) {
+                            searchInput.focus();
+                        }
+                    }, 300);
+                });
             });
-        });
 
-        // Close search form when close button is clicked
-        searchCloseBtn.addEventListener('click', function () {
-            searchFormOverlay.classList.remove('active');
-        });
-
-        // Close search form when clicking outside the form
-        searchFormOverlay.addEventListener('click', function (e) {
-            if (e.target === searchFormOverlay) {
-                searchFormOverlay.classList.remove('active');
+            // Close search form when close button is clicked
+            if (searchCloseBtn) {
+                searchCloseBtn.addEventListener('click', function () {
+                    searchFormOverlay.classList.remove('active');
+                });
             }
-        });
 
-        // Prevent form submission event from closing the overlay (handle form submission)
-        searchForm.addEventListener('submit', function (e) {
-            e.preventDefault();
+            // Close search form when clicking outside the form
+            searchFormOverlay.addEventListener('click', function (e) {
+                if (e.target === searchFormOverlay) {
+                    searchFormOverlay.classList.remove('active');
+                }
+            });
 
-            const searchTerm = searchInput.value.trim();
-            if (searchTerm) {
-                // Implement your search functionality here
-                console.log('Searching for:', searchTerm);
+            // Prevent form submission event from closing the overlay (handle form submission)
+            if (searchForm) {
+                searchForm.addEventListener('submit', function (e) {
+                    e.preventDefault();
 
-                // Optional: Close the form after search
-                // searchFormOverlay.classList.remove('active');
+                    if (searchInput) {
+                        const searchTerm = searchInput.value.trim();
+                        if (searchTerm) {
+                            // Implement your search functionality here
+                            console.log('Searching for:', searchTerm);
+
+                            // Optional: Close the form after search
+                            // searchFormOverlay.classList.remove('active');
+                        }
+                    }
+                });
             }
-        });
 
-        // Close search form when pressing Escape key
-        document.addEventListener('keydown', function (e) {
-            if (e.key === 'Escape' && searchFormOverlay.classList.contains('active')) {
-                searchFormOverlay.classList.remove('active');
-            }
-        });
+            // Close search form when pressing Escape key
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Escape' && searchFormOverlay.classList.contains('active')) {
+                    searchFormOverlay.classList.remove('active');
+                }
+            });
+        }
     });
 
     /* Search End */
